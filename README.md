@@ -11,7 +11,8 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
-```#include <stdio.h> 
+```
+#include <stdio.h> 
 #include <stdlib.h> 
 #include <time.h> 
 int main() { 
@@ -30,7 +31,8 @@ return 0;
 
 ```
 # OUTPUT:
-<img width="1552" height="1067" alt="image" src="https://github.com/user-attachments/assets/20727cf6-1e1f-4c33-bacf-95783f730c80" />
+<img width="1587" height="892" alt="image" src="https://github.com/user-attachments/assets/dad014c3-e190-473d-9dd3-ed85574ea5d0" />
+
 
 # RESULT:
 The program is executed successfully
